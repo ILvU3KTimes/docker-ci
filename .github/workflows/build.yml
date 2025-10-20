@@ -34,4 +34,4 @@ jobs:
           file: Dockerfile.hub
           platforms: linux/arm64
           push: true
-          tags: ${{ secrets.ALIBABA_REGISTRY }}/wangbin841374040/taishan:arm64-${{ github.sha }}
+          tags: ${{ secrets.ALIBABA_REGISTRY }}/wangbin841374040/taishan:arm64
