@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "ed15b8fc8450155f7dce",
-    "url": "/vendors.d2ad6dd0.chunk.css"
+    "revision": "0a034dde7766854551af",
+    "url": "/vendors.a6492be5.chunk.css"
   },
   {
-    "revision": "ed15b8fc8450155f7dce",
-    "url": "/vendors.98cc88f1.async.js"
+    "revision": "0a034dde7766854551af",
+    "url": "/vendors.d0d0e790.async.js"
   },
   {
-    "revision": "4dda3e9b9f2879fc69e2",
-    "url": "/layouts__TabLayout.9bc3948a.chunk.css"
+    "revision": "0d47fad27c6b310db36c",
+    "url": "/layouts__TabLayout.d944c1f0.chunk.css"
   },
   {
-    "revision": "4dda3e9b9f2879fc69e2",
-    "url": "/layouts__TabLayout.216850a5.async.js"
+    "revision": "0d47fad27c6b310db36c",
+    "url": "/layouts__TabLayout.aec7b68a.async.js"
   },
   {
     "revision": "3935e281a464e80ecf21",
@@ -180,8 +180,8 @@ self.__precacheManifest = [
     "url": "/p__StreamMedia__models__streamPlay.js.0fa1c875.async.js"
   },
   {
-    "revision": "e78a008b37ce2a54ad90",
-    "url": "/p__Taishan__Alarm__index.dcdb8027.async.js"
+    "revision": "06331fdbc352fe39502f",
+    "url": "/p__Taishan__Alarm__index.75676d27.async.js"
   },
   {
     "revision": "71649be573e48ebebc54",
@@ -192,40 +192,32 @@ self.__precacheManifest = [
     "url": "/p__Taishan__Home__index.df44bd0e.async.js"
   },
   {
-    "revision": "ab2db112298bde7ba216",
-    "url": "/p__Taishan__News__index.16139691.async.js"
+    "revision": "11dfd92de727f074af03",
+    "url": "/p__Taishan__News__index.d9515078.async.js"
   },
   {
-    "revision": "3e3e9824e58f0993a896",
-    "url": "/p__Taishan__Region__index.74cb8651.async.js"
-  },
-  {
-    "revision": "24bb9ca6c1e3d4bf38b5",
-    "url": "/p__Taishan__Threshold__index.6c3d02e0.async.js"
-  },
-  {
-    "revision": "9aad5e914920e74388f4",
+    "revision": "3d831de4b3dc8ceafb2d",
     "url": "/p__WarnHistory__index.ba43e0c4.chunk.css"
   },
   {
-    "revision": "9aad5e914920e74388f4",
-    "url": "/p__WarnHistory__index.fd7f5404.async.js"
+    "revision": "3d831de4b3dc8ceafb2d",
+    "url": "/p__WarnHistory__index.0a35b100.async.js"
   },
   {
-    "revision": "93bdd12f2edcc157e5e1",
+    "revision": "b149cdd25dfe84fa4e69",
     "url": "/umi.35b8aac5.css"
   },
   {
-    "revision": "93bdd12f2edcc157e5e1",
-    "url": "/umi.7e13b33b.js"
+    "revision": "b149cdd25dfe84fa4e69",
+    "url": "/umi.c202cdca.js"
   },
   {
-    "revision": "fafaf499f4d4f1fc6f67",
-    "url": "/39.8c763e5b.chunk.css"
+    "revision": "14d7ee0f69eb38605c5a",
+    "url": "/37.8c763e5b.chunk.css"
   },
   {
-    "revision": "fafaf499f4d4f1fc6f67",
-    "url": "/39.3ee9a93d.async.js"
+    "revision": "14d7ee0f69eb38605c5a",
+    "url": "/37.3a353efd.async.js"
   },
   {
     "revision": "b375dbdf1432c335468783d0a6d78775",
@@ -244,7 +236,7 @@ self.__precacheManifest = [
     "url": "/static/logo.6db60be3.png"
   },
   {
-    "revision": "b7858dcad021a29ee0452c5972e89236",
+    "revision": "41f792781250c37ee6c0a9fcbbcf9f64",
     "url": "/index.html"
   },
   {
@@ -256,11 +248,7 @@ self.__precacheManifest = [
     "url": "/logo.png"
   },
   {
-    "revision": "5b76a22dfbcc5c776e99cb817c3d36ea",
-    "url": "/ggeditor\\flow\\decision.svg"
-  },
-  {
-    "revision": "f06a8528cb655600f015d946e1c50c60",
+    "revision": "046d56c72c01995f7e62cc671e430cd2",
     "url": "/front.config.js"
   },
   {
@@ -272,16 +260,24 @@ self.__precacheManifest = [
     "url": "/ggeditor\\flow\\normal.svg"
   },
   {
-    "revision": "da6cdb8a317f5384fa159cde1f33b0f0",
-    "url": "/ggeditor\\flow\\start.svg"
+    "revision": "5b76a22dfbcc5c776e99cb817c3d36ea",
+    "url": "/ggeditor\\flow\\decision.svg"
   },
   {
     "revision": "bb1fde8c0c658093c0c283f313069467",
     "url": "/ggeditor\\koni\\bank.svg"
   },
   {
+    "revision": "da6cdb8a317f5384fa159cde1f33b0f0",
+    "url": "/ggeditor\\flow\\start.svg"
+  },
+  {
     "revision": "f161daaf3b30acfccfae4f38099c2161",
     "url": "/ggeditor\\koni\\country.svg"
+  },
+  {
+    "revision": "234c232cd7876ac7b3ece889e82cc32e",
+    "url": "/icons\\icon-192x192.png"
   },
   {
     "revision": "191d7c7262c8bf540dd6e4be8f51f0eb",
@@ -297,15 +293,11 @@ self.__precacheManifest = [
   },
   {
     "revision": "234c232cd7876ac7b3ece889e82cc32e",
-    "url": "/icons\\icon-192x192.png"
-  },
-  {
-    "revision": "234c232cd7876ac7b3ece889e82cc32e",
     "url": "/icons\\icon-512x512.png"
   },
   {
-    "revision": "46058db6224824c966e6ea0124808b38",
-    "url": "/template\\原材料车辆导入模版.xlsx"
+    "revision": "bd4795f5f2030971cdc8f5a8000bcb2a",
+    "url": "/template\\车辆导入模版.xlsx"
   },
   {
     "revision": "0c9ac415234feb7e6281911f4a791332",
