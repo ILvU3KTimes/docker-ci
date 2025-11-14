@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "44273ffa8cc5c61cfa8b",
-    "url": "/vendors.de341d89.chunk.css"
+    "revision": "ca32b3e9a69e4ca7800c",
+    "url": "/vendors.0f05ae9f.chunk.css"
   },
   {
-    "revision": "44273ffa8cc5c61cfa8b",
-    "url": "/vendors.b58642a4.async.js"
+    "revision": "ca32b3e9a69e4ca7800c",
+    "url": "/vendors.5967f726.async.js"
   },
   {
-    "revision": "5091737e0b513dbda372",
+    "revision": "0c5ee8c7544b8c93f62a",
     "url": "/layouts__TabLayout.d944c1f0.chunk.css"
   },
   {
-    "revision": "5091737e0b513dbda372",
-    "url": "/layouts__TabLayout.ee295b7d.async.js"
+    "revision": "0c5ee8c7544b8c93f62a",
+    "url": "/layouts__TabLayout.18cae189.async.js"
   },
   {
     "revision": "3935e281a464e80ecf21",
@@ -132,11 +132,11 @@ self.__precacheManifest = [
     "url": "/p__Login__models__register.js.a2d11b30.async.js"
   },
   {
-    "revision": "674d3efa29fdcb538e92",
-    "url": "/p__Monitor__Artificial.3c036a10.chunk.css"
+    "revision": "01d536473bf35cab6f6a",
+    "url": "/p__Monitor__Artificial.081ce105.chunk.css"
   },
   {
-    "revision": "674d3efa29fdcb538e92",
+    "revision": "01d536473bf35cab6f6a",
     "url": "/p__Monitor__Artificial.35a672d1.async.js"
   },
   {
@@ -184,12 +184,12 @@ self.__precacheManifest = [
     "url": "/p__Taishan__Alarm__index.439bac10.async.js"
   },
   {
-    "revision": "3afb73cdf7f7d09c3b9e",
+    "revision": "97326a048ed5564cee1d",
     "url": "/p__Taishan__Home__index.e3050f1b.chunk.css"
   },
   {
-    "revision": "3afb73cdf7f7d09c3b9e",
-    "url": "/p__Taishan__Home__index.9cf029e0.async.js"
+    "revision": "97326a048ed5564cee1d",
+    "url": "/p__Taishan__Home__index.b8c8cc73.async.js"
   },
   {
     "revision": "11dfd92de727f074af03",
@@ -204,12 +204,12 @@ self.__precacheManifest = [
     "url": "/p__WarnHistory__index.0e9f6799.async.js"
   },
   {
-    "revision": "4a6dc269721f9e548a91",
+    "revision": "93b078a70053650ba4d8",
     "url": "/umi.35b8aac5.css"
   },
   {
-    "revision": "4a6dc269721f9e548a91",
-    "url": "/umi.7b77fc20.js"
+    "revision": "93b078a70053650ba4d8",
+    "url": "/umi.1002ecd4.js"
   },
   {
     "revision": "14d7ee0f69eb38605c5a",
@@ -228,48 +228,52 @@ self.__precacheManifest = [
     "url": "/static/background.8c613aa6.png"
   },
   {
+    "revision": "bd14eeed16440fb49529a7886454b195",
+    "url": "/static/favicon.bd14eeed.png"
+  },
+  {
     "revision": "fda3837f8fe55c96663e5e4b51c94494",
     "url": "/static/avatar.fda3837f.png"
   },
   {
-    "revision": "6db60be3b105430375d153388f614e49",
-    "url": "/static/logo.6db60be3.png"
+    "revision": "e0a8502c7999ea8292fdbe10a75415d3",
+    "url": "/static/logo.e0a8502c.png"
   },
   {
-    "revision": "433989f126104db29f9fb804cbe2b712",
+    "revision": "4d0b939d0aaab82df65ea5d2dd03ddb1",
     "url": "/index.html"
   },
   {
-    "revision": "234c232cd7876ac7b3ece889e82cc32e",
+    "revision": "bd14eeed16440fb49529a7886454b195",
     "url": "/favicon.png"
   },
   {
-    "revision": "6db60be3b105430375d153388f614e49",
+    "revision": "e0a8502c7999ea8292fdbe10a75415d3",
     "url": "/logo.png"
   },
   {
-    "revision": "5b76a22dfbcc5c776e99cb817c3d36ea",
-    "url": "/ggeditor\\flow\\decision.svg"
+    "revision": "234c232cd7876ac7b3ece889e82cc32e",
+    "url": "/favicon-0.png"
   },
   {
     "revision": "046d56c72c01995f7e62cc671e430cd2",
     "url": "/front.config.js"
   },
   {
-    "revision": "7e8663d516fab38eff38b94b08da5d76",
-    "url": "/ggeditor\\flow\\model.svg"
-  },
-  {
-    "revision": "7db0da6a572c4d946d955e42d8268844",
-    "url": "/ggeditor\\flow\\normal.svg"
-  },
-  {
-    "revision": "bb1fde8c0c658093c0c283f313069467",
-    "url": "/ggeditor\\koni\\bank.svg"
+    "revision": "5b76a22dfbcc5c776e99cb817c3d36ea",
+    "url": "/ggeditor\\flow\\decision.svg"
   },
   {
     "revision": "da6cdb8a317f5384fa159cde1f33b0f0",
     "url": "/ggeditor\\flow\\start.svg"
+  },
+  {
+    "revision": "7e8663d516fab38eff38b94b08da5d76",
+    "url": "/ggeditor\\flow\\model.svg"
+  },
+  {
+    "revision": "bb1fde8c0c658093c0c283f313069467",
+    "url": "/ggeditor\\koni\\bank.svg"
   },
   {
     "revision": "0036cca03a82d851933f5e4b5789caaa",
@@ -280,24 +284,32 @@ self.__precacheManifest = [
     "url": "/ggeditor\\koni\\icon.svg"
   },
   {
-    "revision": "234c232cd7876ac7b3ece889e82cc32e",
-    "url": "/icons\\icon-128x128.png"
+    "revision": "7db0da6a572c4d946d955e42d8268844",
+    "url": "/ggeditor\\flow\\normal.svg"
   },
   {
     "revision": "f161daaf3b30acfccfae4f38099c2161",
     "url": "/ggeditor\\koni\\country.svg"
   },
   {
-    "revision": "234c232cd7876ac7b3ece889e82cc32e",
-    "url": "/icons\\icon-512x512.png"
+    "revision": "6db60be3b105430375d153388f614e49",
+    "url": "/logo-0.png"
   },
   {
     "revision": "234c232cd7876ac7b3ece889e82cc32e",
     "url": "/icons\\icon-192x192.png"
   },
   {
+    "revision": "234c232cd7876ac7b3ece889e82cc32e",
+    "url": "/icons\\icon-128x128.png"
+  },
+  {
     "revision": "bd4795f5f2030971cdc8f5a8000bcb2a",
     "url": "/template\\车辆导入模版.xlsx"
+  },
+  {
+    "revision": "234c232cd7876ac7b3ece889e82cc32e",
+    "url": "/icons\\icon-512x512.png"
   },
   {
     "revision": "0c9ac415234feb7e6281911f4a791332",
