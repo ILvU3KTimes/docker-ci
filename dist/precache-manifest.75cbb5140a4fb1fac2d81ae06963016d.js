@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "8dbfeb66002a1b1b04ee",
+    "revision": "0bf6766c4f803b87e2a5",
     "url": "/vendors.e61ddd55.chunk.css"
   },
   {
-    "revision": "8dbfeb66002a1b1b04ee",
-    "url": "/vendors.1d5e4baa.async.js"
+    "revision": "0bf6766c4f803b87e2a5",
+    "url": "/vendors.d73d06fc.async.js"
   },
   {
-    "revision": "4f84b50f0707a27a1bd8",
+    "revision": "3cdeed4d127a0d7b5614",
     "url": "/layouts__TabLayout.1d8fd1db.chunk.css"
   },
   {
-    "revision": "4f84b50f0707a27a1bd8",
-    "url": "/layouts__TabLayout.f4bceb13.async.js"
+    "revision": "3cdeed4d127a0d7b5614",
+    "url": "/layouts__TabLayout.028ebf26.async.js"
   },
   {
     "revision": "3935e281a464e80ecf21",
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/layouts__UserLayout.3ff6f35c.async.js"
   },
   {
-    "revision": "2011a84e4580d70c38aa",
+    "revision": "891040f2eeaeac96ffa2",
     "url": "/p__Account__Center__Center.25418e0c.chunk.css"
   },
   {
-    "revision": "2011a84e4580d70c38aa",
-    "url": "/p__Account__Center__Center.c9c606d9.async.js"
+    "revision": "891040f2eeaeac96ffa2",
+    "url": "/p__Account__Center__Center.a8e9f0c5.async.js"
   },
   {
     "revision": "220c013d03fdc262d454",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/p__Algorithm__Person__models__person.js.376b908d.async.js"
   },
   {
-    "revision": "60f50ae2d1d57625c6f4",
-    "url": "/p__EventMonitor__index.5dbccfcf.async.js"
+    "revision": "8df2988f7e86993222f8",
+    "url": "/p__EventMonitor__index.e6b438a5.async.js"
   },
   {
     "revision": "eb2c3d1c9514dd385034",
@@ -132,12 +132,12 @@ self.__precacheManifest = [
     "url": "/p__Login__models__register.js.a2d11b30.async.js"
   },
   {
-    "revision": "01d536473bf35cab6f6a",
+    "revision": "d02858de37c5aaa73538",
     "url": "/p__Monitor__Artificial.081ce105.chunk.css"
   },
   {
-    "revision": "01d536473bf35cab6f6a",
-    "url": "/p__Monitor__Artificial.35a672d1.async.js"
+    "revision": "d02858de37c5aaa73538",
+    "url": "/p__Monitor__Artificial.1b84bdd4.async.js"
   },
   {
     "revision": "e0298b1b36f4cf8dfde0",
@@ -168,40 +168,40 @@ self.__precacheManifest = [
     "url": "/p__Result__Success.6e523edf.async.js"
   },
   {
-    "revision": "636c854a9578cb428023",
+    "revision": "abd64d9b98919d5212a9",
     "url": "/p__StreamMedia__StreamPlay.37c9f0c0.chunk.css"
   },
   {
-    "revision": "636c854a9578cb428023",
-    "url": "/p__StreamMedia__StreamPlay.e6e8b865.async.js"
+    "revision": "abd64d9b98919d5212a9",
+    "url": "/p__StreamMedia__StreamPlay.125b6a44.async.js"
   },
   {
     "revision": "6ca98ecf617e32c52516",
     "url": "/p__StreamMedia__models__streamPlay.js.0fa1c875.async.js"
   },
   {
-    "revision": "15cc8ba9e789d1a0921d",
+    "revision": "0212963bc148c20a6168",
     "url": "/p__Taishan__Home__index.e3050f1b.chunk.css"
   },
   {
-    "revision": "15cc8ba9e789d1a0921d",
-    "url": "/p__Taishan__Home__index.6bf151f9.async.js"
+    "revision": "0212963bc148c20a6168",
+    "url": "/p__Taishan__Home__index.d9dce209.async.js"
   },
   {
-    "revision": "2dc98336c4604d024fdb",
+    "revision": "6539ed25838ba126a3b1",
     "url": "/p__WarnHistory__index.ba43e0c4.chunk.css"
   },
   {
-    "revision": "2dc98336c4604d024fdb",
-    "url": "/p__WarnHistory__index.4159ddf0.async.js"
+    "revision": "6539ed25838ba126a3b1",
+    "url": "/p__WarnHistory__index.65c76f0d.async.js"
   },
   {
-    "revision": "ec4ad8c720b96c3fead9",
+    "revision": "98c6f36195c40aa332f2",
     "url": "/umi.35b8aac5.css"
   },
   {
-    "revision": "ec4ad8c720b96c3fead9",
-    "url": "/umi.c46870dd.js"
+    "revision": "98c6f36195c40aa332f2",
+    "url": "/umi.374f4679.js"
   },
   {
     "revision": "30eda2718f5449ddbd25",
@@ -232,7 +232,7 @@ self.__precacheManifest = [
     "url": "/static/logo.e0a8502c.png"
   },
   {
-    "revision": "70f66396d702956b96eec143f8744c9c",
+    "revision": "84973662504c7b0a26e190c64ee26276",
     "url": "/index.html"
   },
   {
@@ -242,6 +242,10 @@ self.__precacheManifest = [
   {
     "revision": "e0a8502c7999ea8292fdbe10a75415d3",
     "url": "/logo.png"
+  },
+  {
+    "revision": "046d56c72c01995f7e62cc671e430cd2",
+    "url": "/front.config.js"
   },
   {
     "revision": "234c232cd7876ac7b3ece889e82cc32e",
@@ -256,28 +260,32 @@ self.__precacheManifest = [
     "url": "/ggeditor\\flow\\normal.svg"
   },
   {
-    "revision": "046d56c72c01995f7e62cc671e430cd2",
-    "url": "/front.config.js"
-  },
-  {
-    "revision": "bb1fde8c0c658093c0c283f313069467",
-    "url": "/ggeditor\\koni\\bank.svg"
-  },
-  {
     "revision": "7e8663d516fab38eff38b94b08da5d76",
     "url": "/ggeditor\\flow\\model.svg"
-  },
-  {
-    "revision": "da6cdb8a317f5384fa159cde1f33b0f0",
-    "url": "/ggeditor\\flow\\start.svg"
   },
   {
     "revision": "f161daaf3b30acfccfae4f38099c2161",
     "url": "/ggeditor\\koni\\country.svg"
   },
   {
+    "revision": "da6cdb8a317f5384fa159cde1f33b0f0",
+    "url": "/ggeditor\\flow\\start.svg"
+  },
+  {
     "revision": "191d7c7262c8bf540dd6e4be8f51f0eb",
     "url": "/ggeditor\\koni\\icon.svg"
+  },
+  {
+    "revision": "bb1fde8c0c658093c0c283f313069467",
+    "url": "/ggeditor\\koni\\bank.svg"
+  },
+  {
+    "revision": "234c232cd7876ac7b3ece889e82cc32e",
+    "url": "/icons\\icon-128x128.png"
+  },
+  {
+    "revision": "234c232cd7876ac7b3ece889e82cc32e",
+    "url": "/icons\\icon-192x192.png"
   },
   {
     "revision": "234c232cd7876ac7b3ece889e82cc32e",
@@ -288,20 +296,16 @@ self.__precacheManifest = [
     "url": "/ggeditor\\koni\\person.svg"
   },
   {
-    "revision": "234c232cd7876ac7b3ece889e82cc32e",
-    "url": "/icons\\icon-192x192.png"
-  },
-  {
-    "revision": "bd4795f5f2030971cdc8f5a8000bcb2a",
-    "url": "/template\\车辆导入模版.xlsx"
-  },
-  {
-    "revision": "234c232cd7876ac7b3ece889e82cc32e",
-    "url": "/icons\\icon-128x128.png"
-  },
-  {
     "revision": "6db60be3b105430375d153388f614e49",
     "url": "/logo-0.png"
+  },
+  {
+    "revision": "5915a7381990703b1f99c02ef3cab08c",
+    "url": "/template\\原材料车辆导入模版.xlsx"
+  },
+  {
+    "revision": "6c0e5f369f1ea8798907fc2fdebe30c0",
+    "url": "/template\\成品车辆导入模版.xlsx"
   },
   {
     "revision": "0c9ac415234feb7e6281911f4a791332",
