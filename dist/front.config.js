@@ -7,11 +7,11 @@ var minioConfig = {
   secretKey: 'admin123',
 }
 // 系统标题（登录页、管理页）
-// var systemTitle = "AI视频监控与报警管理平台";
+// var systemTitle = "AI仓储物流管理平台";
 // 页面底部copyRight
 var copyRight = "";
 // 监控页面标题
-var monitorTitle = "AI视频监控与报警应用平台";
+var monitorTitle = "AI仓储物流管理平台";
 // 菜单栏顶部标题-四个字最优
 var menuTitle = "";
 // 菜单栏顶部副标题
