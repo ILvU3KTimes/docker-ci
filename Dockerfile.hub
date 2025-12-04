@@ -12,6 +12,9 @@ COPY ./docker/nginx.conf /etc/nginx/conf.d/default.conf
 COPY ./ssl/_.tagtjn.cn.pem /etc/nginx/ssl/
 COPY ./ssl/_.tagtjn.cn.key /etc/nginx/ssl/
 
+# 复制小程序文件
+COPY ./ssl/8g15wtzAOE.txt  /etc/nginx/ssl/
+
 # 复制前端文件
 COPY ./dist  /usr/share/nginx/html/
 
