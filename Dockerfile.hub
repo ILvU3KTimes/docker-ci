@@ -16,7 +16,8 @@ COPY ./ssl/_.tagtjn.cn.key /etc/nginx/ssl/
 COPY ./ssl/8g15wtzAOE.txt  /etc/nginx/ssl/
 
 # 复制前端文件
-COPY ./dist  /usr/share/nginx/html/
+COPY ./dist  /usr/share/nginx/html/project-a/
+COPY ./dist1  /usr/share/nginx/html/project-b/
 
 EXPOSE 80 443
 
