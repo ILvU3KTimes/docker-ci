@@ -17,7 +17,6 @@ COPY ./ssl/8g15wtzAOE.txt  /etc/nginx/ssl/
 
 # 复制前端文件
 COPY ./dist  /usr/share/nginx/html/
-COPY ./distdx /usr/share/nginx/distdx
 
 EXPOSE 80 443
 
