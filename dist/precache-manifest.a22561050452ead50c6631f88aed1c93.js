@@ -8,12 +8,12 @@ self.__precacheManifest = [
     "url": "/vendors.d7b731e9.async.js"
   },
   {
-    "revision": "810b2076f9c035a447ce",
+    "revision": "9f4b0f90714d3f56c1ba",
     "url": "/layouts__TabLayout.31e1883e.chunk.css"
   },
   {
-    "revision": "810b2076f9c035a447ce",
-    "url": "/layouts__TabLayout.8fdc058f.async.js"
+    "revision": "9f4b0f90714d3f56c1ba",
+    "url": "/layouts__TabLayout.51b01e79.async.js"
   },
   {
     "revision": "3935e281a464e80ecf21",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/p__Algorithm__Person__models__person.js.376b908d.async.js"
   },
   {
-    "revision": "e3b3148997d5ca38cf72",
-    "url": "/p__EventMonitor__index.ed5d5657.async.js"
+    "revision": "6dd521f5bc1830ba1e7e",
+    "url": "/p__EventMonitor__index.7bbd4b93.async.js"
   },
   {
     "revision": "eb2c3d1c9514dd385034",
@@ -196,12 +196,12 @@ self.__precacheManifest = [
     "url": "/p__WarnHistory__index.65c76f0d.async.js"
   },
   {
-    "revision": "de6f9bf6b1b1878b7214",
+    "revision": "5232d9b8d99f32576311",
     "url": "/umi.35b8aac5.css"
   },
   {
-    "revision": "de6f9bf6b1b1878b7214",
-    "url": "/umi.20f54823.js"
+    "revision": "5232d9b8d99f32576311",
+    "url": "/umi.a599f1c9.js"
   },
   {
     "revision": "30eda2718f5449ddbd25",
@@ -232,7 +232,7 @@ self.__precacheManifest = [
     "url": "/static/logo.e0a8502c.png"
   },
   {
-    "revision": "308cc2c84b77abba13a2a0c11c4d48f0",
+    "revision": "575e52366ad121722ce1a08c14226372",
     "url": "/index.html"
   },
   {
@@ -252,40 +252,36 @@ self.__precacheManifest = [
     "url": "/front.config.js"
   },
   {
-    "revision": "7e8663d516fab38eff38b94b08da5d76",
-    "url": "/ggeditor\\flow\\model.svg"
-  },
-  {
     "revision": "5b76a22dfbcc5c776e99cb817c3d36ea",
     "url": "/ggeditor\\flow\\decision.svg"
-  },
-  {
-    "revision": "7db0da6a572c4d946d955e42d8268844",
-    "url": "/ggeditor\\flow\\normal.svg"
   },
   {
     "revision": "da6cdb8a317f5384fa159cde1f33b0f0",
     "url": "/ggeditor\\flow\\start.svg"
   },
   {
-    "revision": "bb1fde8c0c658093c0c283f313069467",
-    "url": "/ggeditor\\koni\\bank.svg"
+    "revision": "7db0da6a572c4d946d955e42d8268844",
+    "url": "/ggeditor\\flow\\normal.svg"
+  },
+  {
+    "revision": "7e8663d516fab38eff38b94b08da5d76",
+    "url": "/ggeditor\\flow\\model.svg"
   },
   {
     "revision": "f161daaf3b30acfccfae4f38099c2161",
     "url": "/ggeditor\\koni\\country.svg"
   },
   {
-    "revision": "191d7c7262c8bf540dd6e4be8f51f0eb",
-    "url": "/ggeditor\\koni\\icon.svg"
-  },
-  {
     "revision": "0036cca03a82d851933f5e4b5789caaa",
     "url": "/ggeditor\\koni\\person.svg"
   },
   {
-    "revision": "234c232cd7876ac7b3ece889e82cc32e",
-    "url": "/icons\\icon-192x192.png"
+    "revision": "bb1fde8c0c658093c0c283f313069467",
+    "url": "/ggeditor\\koni\\bank.svg"
+  },
+  {
+    "revision": "191d7c7262c8bf540dd6e4be8f51f0eb",
+    "url": "/ggeditor\\koni\\icon.svg"
   },
   {
     "revision": "234c232cd7876ac7b3ece889e82cc32e",
@@ -293,15 +289,19 @@ self.__precacheManifest = [
   },
   {
     "revision": "234c232cd7876ac7b3ece889e82cc32e",
-    "url": "/icons\\icon-512x512.png"
+    "url": "/icons\\icon-192x192.png"
   },
   {
-    "revision": "5915a7381990703b1f99c02ef3cab08c",
-    "url": "/template\\原材料车辆导入模版.xlsx"
+    "revision": "234c232cd7876ac7b3ece889e82cc32e",
+    "url": "/icons\\icon-512x512.png"
   },
   {
     "revision": "6db60be3b105430375d153388f614e49",
     "url": "/logo-0.png"
+  },
+  {
+    "revision": "5915a7381990703b1f99c02ef3cab08c",
+    "url": "/template\\原材料车辆导入模版.xlsx"
   },
   {
     "revision": "6c0e5f369f1ea8798907fc2fdebe30c0",
