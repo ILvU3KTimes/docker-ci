@@ -8,12 +8,12 @@ self.__precacheManifest = [
     "url": "/vendors.d7b731e9.async.js"
   },
   {
-    "revision": "706c49fb6413eccba09d",
+    "revision": "f30e988799326c9fdde8",
     "url": "/layouts__TabLayout.31e1883e.chunk.css"
   },
   {
-    "revision": "706c49fb6413eccba09d",
-    "url": "/layouts__TabLayout.a2a78e09.async.js"
+    "revision": "f30e988799326c9fdde8",
+    "url": "/layouts__TabLayout.5c1763a4.async.js"
   },
   {
     "revision": "3935e281a464e80ecf21",
@@ -196,12 +196,12 @@ self.__precacheManifest = [
     "url": "/p__WarnHistory__index.65c76f0d.async.js"
   },
   {
-    "revision": "29071344027eaaeb18ce",
+    "revision": "34f078a63186992a3486",
     "url": "/umi.35b8aac5.css"
   },
   {
-    "revision": "29071344027eaaeb18ce",
-    "url": "/umi.c429016b.js"
+    "revision": "34f078a63186992a3486",
+    "url": "/umi.617a9806.js"
   },
   {
     "revision": "30eda2718f5449ddbd25",
@@ -232,7 +232,7 @@ self.__precacheManifest = [
     "url": "/static/logo.e0a8502c.png"
   },
   {
-    "revision": "66017e329437749dd6188e1addc8012b",
+    "revision": "69f8ef31a6622d3b80b86c2798ef0f56",
     "url": "/index.html"
   },
   {
@@ -256,14 +256,6 @@ self.__precacheManifest = [
     "url": "/ggeditor\\flow\\decision.svg"
   },
   {
-    "revision": "7db0da6a572c4d946d955e42d8268844",
-    "url": "/ggeditor\\flow\\normal.svg"
-  },
-  {
-    "revision": "da6cdb8a317f5384fa159cde1f33b0f0",
-    "url": "/ggeditor\\flow\\start.svg"
-  },
-  {
     "revision": "7e8663d516fab38eff38b94b08da5d76",
     "url": "/ggeditor\\flow\\model.svg"
   },
@@ -272,8 +264,24 @@ self.__precacheManifest = [
     "url": "/ggeditor\\koni\\bank.svg"
   },
   {
+    "revision": "7db0da6a572c4d946d955e42d8268844",
+    "url": "/ggeditor\\flow\\normal.svg"
+  },
+  {
+    "revision": "da6cdb8a317f5384fa159cde1f33b0f0",
+    "url": "/ggeditor\\flow\\start.svg"
+  },
+  {
     "revision": "191d7c7262c8bf540dd6e4be8f51f0eb",
     "url": "/ggeditor\\koni\\icon.svg"
+  },
+  {
+    "revision": "0036cca03a82d851933f5e4b5789caaa",
+    "url": "/ggeditor\\koni\\person.svg"
+  },
+  {
+    "revision": "234c232cd7876ac7b3ece889e82cc32e",
+    "url": "/icons\\icon-512x512.png"
   },
   {
     "revision": "f161daaf3b30acfccfae4f38099c2161",
@@ -284,28 +292,20 @@ self.__precacheManifest = [
     "url": "/icons\\icon-192x192.png"
   },
   {
-    "revision": "0036cca03a82d851933f5e4b5789caaa",
-    "url": "/ggeditor\\koni\\person.svg"
-  },
-  {
     "revision": "234c232cd7876ac7b3ece889e82cc32e",
     "url": "/icons\\icon-128x128.png"
-  },
-  {
-    "revision": "234c232cd7876ac7b3ece889e82cc32e",
-    "url": "/icons\\icon-512x512.png"
   },
   {
     "revision": "6db60be3b105430375d153388f614e49",
     "url": "/logo-0.png"
   },
   {
-    "revision": "5915a7381990703b1f99c02ef3cab08c",
-    "url": "/template\\原材料车辆导入模版.xlsx"
+    "revision": "d17e61ddb3e843004e87b02fdba498d6",
+    "url": "/template\\成品车辆导入模版.xlsx"
   },
   {
-    "revision": "6c0e5f369f1ea8798907fc2fdebe30c0",
-    "url": "/template\\成品车辆导入模版.xlsx"
+    "revision": "5915a7381990703b1f99c02ef3cab08c",
+    "url": "/template\\原材料车辆导入模版.xlsx"
   },
   {
     "revision": "0c9ac415234feb7e6281911f4a791332",
