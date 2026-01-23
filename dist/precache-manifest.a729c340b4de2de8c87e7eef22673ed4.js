@@ -8,12 +8,12 @@ self.__precacheManifest = [
     "url": "/vendors.d7b731e9.async.js"
   },
   {
-    "revision": "588546ab748c7dedc69b",
+    "revision": "4632849cabe84ea13848",
     "url": "/layouts__TabLayout.8baa2e48.chunk.css"
   },
   {
-    "revision": "588546ab748c7dedc69b",
-    "url": "/layouts__TabLayout.77a9601e.async.js"
+    "revision": "4632849cabe84ea13848",
+    "url": "/layouts__TabLayout.4eed7fc8.async.js"
   },
   {
     "revision": "3935e281a464e80ecf21",
@@ -196,12 +196,12 @@ self.__precacheManifest = [
     "url": "/p__WarnHistory__index.65c76f0d.async.js"
   },
   {
-    "revision": "ecbd131e647f7d375a2d",
+    "revision": "4879625a8bf992feae35",
     "url": "/umi.35b8aac5.css"
   },
   {
-    "revision": "ecbd131e647f7d375a2d",
-    "url": "/umi.53a3ffa6.js"
+    "revision": "4879625a8bf992feae35",
+    "url": "/umi.269b7c6d.js"
   },
   {
     "revision": "30eda2718f5449ddbd25",
@@ -232,7 +232,7 @@ self.__precacheManifest = [
     "url": "/static/logo.e0a8502c.png"
   },
   {
-    "revision": "e6df13071d09c915beae1df3b4284ee6",
+    "revision": "0e3f38101d55224f9d8b9365fbc5cbee",
     "url": "/index.html"
   },
   {
@@ -260,40 +260,44 @@ self.__precacheManifest = [
     "url": "/ggeditor\\flow\\model.svg"
   },
   {
-    "revision": "7db0da6a572c4d946d955e42d8268844",
-    "url": "/ggeditor\\flow\\normal.svg"
-  },
-  {
     "revision": "bb1fde8c0c658093c0c283f313069467",
     "url": "/ggeditor\\koni\\bank.svg"
-  },
-  {
-    "revision": "f161daaf3b30acfccfae4f38099c2161",
-    "url": "/ggeditor\\koni\\country.svg"
-  },
-  {
-    "revision": "191d7c7262c8bf540dd6e4be8f51f0eb",
-    "url": "/ggeditor\\koni\\icon.svg"
   },
   {
     "revision": "da6cdb8a317f5384fa159cde1f33b0f0",
     "url": "/ggeditor\\flow\\start.svg"
   },
   {
-    "revision": "0036cca03a82d851933f5e4b5789caaa",
-    "url": "/ggeditor\\koni\\person.svg"
+    "revision": "f161daaf3b30acfccfae4f38099c2161",
+    "url": "/ggeditor\\koni\\country.svg"
   },
   {
     "revision": "234c232cd7876ac7b3ece889e82cc32e",
     "url": "/icons\\icon-192x192.png"
   },
   {
-    "revision": "234c232cd7876ac7b3ece889e82cc32e",
-    "url": "/icons\\icon-512x512.png"
+    "revision": "7db0da6a572c4d946d955e42d8268844",
+    "url": "/ggeditor\\flow\\normal.svg"
   },
   {
     "revision": "234c232cd7876ac7b3ece889e82cc32e",
     "url": "/icons\\icon-128x128.png"
+  },
+  {
+    "revision": "0036cca03a82d851933f5e4b5789caaa",
+    "url": "/ggeditor\\koni\\person.svg"
+  },
+  {
+    "revision": "6db60be3b105430375d153388f614e49",
+    "url": "/logo-0.png"
+  },
+  {
+    "revision": "234c232cd7876ac7b3ece889e82cc32e",
+    "url": "/icons\\icon-512x512.png"
+  },
+  {
+    "revision": "191d7c7262c8bf540dd6e4be8f51f0eb",
+    "url": "/ggeditor\\koni\\icon.svg"
   },
   {
     "revision": "5915a7381990703b1f99c02ef3cab08c",
@@ -302,10 +306,6 @@ self.__precacheManifest = [
   {
     "revision": "d17e61ddb3e843004e87b02fdba498d6",
     "url": "/template\\成品车辆导入模版.xlsx"
-  },
-  {
-    "revision": "6db60be3b105430375d153388f614e49",
-    "url": "/logo-0.png"
   },
   {
     "revision": "0c9ac415234feb7e6281911f4a791332",
