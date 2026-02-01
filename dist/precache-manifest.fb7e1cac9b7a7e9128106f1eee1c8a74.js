@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "792a9b822e448c297bde",
-    "url": "/vendors.e61ddd55.chunk.css"
+    "revision": "d12e303ce42c213f7bfa",
+    "url": "/vendors.af19986f.chunk.css"
   },
   {
-    "revision": "792a9b822e448c297bde",
+    "revision": "d12e303ce42c213f7bfa",
     "url": "/vendors.d7b731e9.async.js"
   },
   {
@@ -180,12 +180,12 @@ self.__precacheManifest = [
     "url": "/p__StreamMedia__models__streamPlay.js.0fa1c875.async.js"
   },
   {
-    "revision": "a02766bcea6e123fcdd7",
-    "url": "/p__Taishan__Home__index.e3050f1b.chunk.css"
+    "revision": "8c023e5fa7e8f2ab68aa",
+    "url": "/p__Taishan__Home__index.933b4268.chunk.css"
   },
   {
-    "revision": "a02766bcea6e123fcdd7",
-    "url": "/p__Taishan__Home__index.168e1d75.async.js"
+    "revision": "8c023e5fa7e8f2ab68aa",
+    "url": "/p__Taishan__Home__index.83df6cd1.async.js"
   },
   {
     "revision": "6539ed25838ba126a3b1",
@@ -196,12 +196,12 @@ self.__precacheManifest = [
     "url": "/p__WarnHistory__index.65c76f0d.async.js"
   },
   {
-    "revision": "80b5b59e69981f40c7e5",
-    "url": "/umi.35b8aac5.css"
+    "revision": "8abd95289fc5b8dd0b1d",
+    "url": "/umi.363bbc7d.css"
   },
   {
-    "revision": "80b5b59e69981f40c7e5",
-    "url": "/umi.5045e48a.js"
+    "revision": "8abd95289fc5b8dd0b1d",
+    "url": "/umi.3342b78c.js"
   },
   {
     "revision": "30eda2718f5449ddbd25",
@@ -216,12 +216,12 @@ self.__precacheManifest = [
     "url": "/static/u3.b375dbdf.png"
   },
   {
-    "revision": "8c613aa64cb1e3b64355f4a7992cc8ff",
-    "url": "/static/background.8c613aa6.png"
-  },
-  {
     "revision": "bd14eeed16440fb49529a7886454b195",
     "url": "/static/favicon.bd14eeed.png"
+  },
+  {
+    "revision": "8c613aa64cb1e3b64355f4a7992cc8ff",
+    "url": "/static/background.8c613aa6.png"
   },
   {
     "revision": "fda3837f8fe55c96663e5e4b51c94494",
@@ -232,7 +232,7 @@ self.__precacheManifest = [
     "url": "/static/logo.e0a8502c.png"
   },
   {
-    "revision": "4ff378010b0665dbf03c009b35f1bd5d",
+    "revision": "35fb04eb454b02bdb2fab4f7da9755bd",
     "url": "/index.html"
   },
   {
@@ -252,36 +252,24 @@ self.__precacheManifest = [
     "url": "/front.config.js"
   },
   {
-    "revision": "5b76a22dfbcc5c776e99cb817c3d36ea",
-    "url": "/ggeditor\\flow\\decision.svg"
-  },
-  {
-    "revision": "7e8663d516fab38eff38b94b08da5d76",
-    "url": "/ggeditor\\flow\\model.svg"
-  },
-  {
     "revision": "7db0da6a572c4d946d955e42d8268844",
     "url": "/ggeditor\\flow\\normal.svg"
   },
   {
-    "revision": "da6cdb8a317f5384fa159cde1f33b0f0",
-    "url": "/ggeditor\\flow\\start.svg"
-  },
-  {
-    "revision": "bb1fde8c0c658093c0c283f313069467",
-    "url": "/ggeditor\\koni\\bank.svg"
-  },
-  {
-    "revision": "191d7c7262c8bf540dd6e4be8f51f0eb",
-    "url": "/ggeditor\\koni\\icon.svg"
+    "revision": "5b76a22dfbcc5c776e99cb817c3d36ea",
+    "url": "/ggeditor\\flow\\decision.svg"
   },
   {
     "revision": "f161daaf3b30acfccfae4f38099c2161",
     "url": "/ggeditor\\koni\\country.svg"
   },
   {
-    "revision": "234c232cd7876ac7b3ece889e82cc32e",
-    "url": "/icons\\icon-128x128.png"
+    "revision": "7e8663d516fab38eff38b94b08da5d76",
+    "url": "/ggeditor\\flow\\model.svg"
+  },
+  {
+    "revision": "191d7c7262c8bf540dd6e4be8f51f0eb",
+    "url": "/ggeditor\\koni\\icon.svg"
   },
   {
     "revision": "0036cca03a82d851933f5e4b5789caaa",
@@ -292,12 +280,24 @@ self.__precacheManifest = [
     "url": "/icons\\icon-192x192.png"
   },
   {
-    "revision": "6db60be3b105430375d153388f614e49",
-    "url": "/logo-0.png"
+    "revision": "bb1fde8c0c658093c0c283f313069467",
+    "url": "/ggeditor\\koni\\bank.svg"
+  },
+  {
+    "revision": "234c232cd7876ac7b3ece889e82cc32e",
+    "url": "/icons\\icon-128x128.png"
   },
   {
     "revision": "234c232cd7876ac7b3ece889e82cc32e",
     "url": "/icons\\icon-512x512.png"
+  },
+  {
+    "revision": "da6cdb8a317f5384fa159cde1f33b0f0",
+    "url": "/ggeditor\\flow\\start.svg"
+  },
+  {
+    "revision": "6db60be3b105430375d153388f614e49",
+    "url": "/logo-0.png"
   },
   {
     "revision": "5915a7381990703b1f99c02ef3cab08c",
